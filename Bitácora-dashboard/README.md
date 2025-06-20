@@ -11,10 +11,16 @@
 ## 📸 Capturas del Dashboard
 
 ### Página principal
-![Página Principal](.Portada.png)
+![Página Principal](./Portada.png)
+
+### Aplicaciones
+![Aplicaciones](./Aplicaciones_CF.png)
+
+### Equipos
+![Equipos](./Equipos_CF.png)
 
 ### Salud del equipo
-![Aplicaciones](.Aplicaciones_CF.png)
+![Aplicaciones](./Aplicaciones_CF.png)
 
 ### Desgaste
 ![Desgaste](./Desgaste%20Molino%20Bolas%2001.png)
@@ -22,9 +28,7 @@
 ### Contaminantes
 ![Contaminantes](./Contaminantes%20Molino%20Bolas%2001.png)
 
-### Equipos y Aplicaciones
-![Equipos](./Equipos_CF.png)
-![Aplicaciones](./Aplicaciones_CF.png)
+
 
 ---
 
