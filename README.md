@@ -12,21 +12,9 @@ Bienvenido a mi portafolio de proyectos como Data Analyst, donde combino mi back
 
 ### 🟢 [Dashboard de Lubricadores](./lubricadores_BT-dashboard)
 
-Visualización crítica en Looker Studio para monitorear el estado de lubricadores automáticos.  
-Tecnologías: Looker Studio, Google Sheets, BigQuery, IoT, Apps Script.
-
-### 🟠 [Asistencia Técnica con NFC](./asistencia-nfc)
-Sistema de registro de asistencia en terreno utilizando llaveros NFC y Google Sheets.  
-Tecnologías: MacroDroid, Apps Script, Google Sheets, sensores NFC.
-
-### 🔵 [ETL y Análisis de Consumo Bicing](./etl-bicing)
-Proceso de extracción, transformación y carga de datos sobre usuarios y consumo en Barcelona.  
-Tecnologías: Python, Pandas, Power BI, Google Data Studio.
-
----
 
 ## 👨‍💻 Sobre mí
-Ingeniero Civil Industrial especializado en Business Intelligence, con experiencia en automatización, mantenimiento predictivo y proyectos de trazabilidad para operaciones en terreno.
+Ingeniero Civil Industrial Master en Business Intelligence & Data Management, con experiencia en automatización, mantenimiento predictivo y proyectos de trazabilidad para operaciones en terreno.
 
 📍 Basado en Barcelona | 🌍 Disponible para roles remotos o híbridos en Europa.
 
