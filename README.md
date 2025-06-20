@@ -9,6 +9,8 @@ Bienvenido a mi portafolio de proyectos como Data Analyst, donde combino mi back
 ## 🔍 Proyectos Destacados
 
 ### 🟢 [Dashboard de Lubricadores](./lubricadores-dashboard)
+![Vista del dashboard](./image.png)
+
 Visualización crítica en Looker Studio para monitorear el estado de lubricadores automáticos.  
 Tecnologías: Looker Studio, Google Sheets, BigQuery, IoT, Apps Script.
 
