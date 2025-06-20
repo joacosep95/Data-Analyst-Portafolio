@@ -14,5 +14,15 @@ Optimizar el mantenimiento preventivo detectando de forma remota los niveles de 
 - Apps Script
 
 ## 📸 Capturas del dashboard
-![Vista general](./vista_general_lubricadores_bt.png) 
+### Portada
+![Portada](./Portada_PL.png) 
+
+### Principal
+![Vista principal](./Principal_BT.png)
+![Vista secundaria](./Principal_BT_DOWN.png)
+
+### GateWay
+![GateWay](./Gateway.png)
+
+
 
