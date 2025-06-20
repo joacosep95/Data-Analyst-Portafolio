@@ -27,7 +27,7 @@
 ### Contaminantes
 ![Contaminantes](./Contaminantes%20Molino%20Bolas%2001.png)
 
-### Contaminantes
+### Hitos
 ![Hitos](./Hitos%20Molino%20Bolas%2001.png)
 
 
