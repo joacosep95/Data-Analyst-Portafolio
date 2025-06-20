@@ -3,10 +3,9 @@
 📊 Proyecto BI para visualizar resultados de análisis de aceite de equipos industriales. Permite hacer seguimiento de tendencias, alertas y condiciones críticas para mantenimiento predictivo.
 
 ## 🔧 Herramientas
-- Power BI
-- Google Sheets
-- Apps Script
+- Looker Studio
 - BigQuery
+- Google Sheets
 
 ## 📸 Capturas del Dashboard
 
@@ -27,6 +26,9 @@
 
 ### Contaminantes
 ![Contaminantes](./Contaminantes%20Molino%20Bolas%2001.png)
+
+### Contaminantes
+![Hitos](./Hitos%20Molino%20Bolas%2001.png)
 
 
 
