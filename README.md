@@ -8,6 +8,8 @@ Bienvenido a mi portafolio de proyectos como Data Analyst, donde combino mi back
 
 ## 🔍 Proyectos Destacados
 
+### 🟢 [Dashboard Bitácora de Análisis de Aceite](./Bitácora-dashboard)
+
 ### 🟢 [Dashboard de Lubricadores](./lubricadores-dashboard)
 ![Vista del dashboard](./image.png)
 
