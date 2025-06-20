@@ -14,5 +14,5 @@ Optimizar el mantenimiento preventivo detectando de forma remota los niveles de 
 - Apps Script
 
 ## 📸 Capturas del dashboard
-
+![Vista general](./vista_general_lubricadores_bt.png) 
 
