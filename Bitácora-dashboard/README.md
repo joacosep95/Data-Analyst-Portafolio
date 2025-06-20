@@ -14,7 +14,7 @@
 ![Página Principal](.Portada.png)
 
 ### Salud del equipo
-![Aplicaciones](./Aplicaciones_CF.png)
+![Aplicaciones](.Aplicaciones_CF.png)
 
 ### Desgaste
 ![Desgaste](./Desgaste%20Molino%20Bolas%2001.png)
