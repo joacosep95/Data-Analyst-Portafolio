@@ -14,9 +14,6 @@ Bienvenido a mi portafolio de proyectos como Data Analyst, donde combino mi back
 
 ### 🟢 [Servicio de Lubricación Industrial](./Servicio%20de%20Lubricaci%C3%B3n)
 
-Sistema integral de planificación, trazabilidad y visualización de tareas de lubricación crítica en faena minera.
-)
-
 
 ## 👨‍💻 Sobre mí
 Ingeniero Civil Industrial Master en Business Intelligence & Data Management, con experiencia en automatización, mantenimiento predictivo y proyectos de trazabilidad para operaciones en terreno.
