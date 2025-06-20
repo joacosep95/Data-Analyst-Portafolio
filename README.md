@@ -10,7 +10,9 @@ Bienvenido a mi portafolio de proyectos como Data Analyst, donde combino mi back
 
 ### 🟢 [Dashboard Bitácora de Análisis de Aceite](./Bitácora-dashboard)
 
-### 🟢 [Dashboard de Lubricadores](./lubricadores_BT-dashboard)
+### 🟢 [Dashboard de Lubricadores Automáticos](./lubricadores_BT-dashboard)
+
+### 🟢 [Dashboard de Servicio](./Servicio de Lubricación)
 
 
 ## 👨‍💻 Sobre mí
